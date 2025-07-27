@@ -14,7 +14,7 @@ This repository provides step-by-step guidance on handling different types of in
 
 | Playbook | Description |
 |----------|-------------|
-| [Phishing Email Playbook](./Phishing-Email.md)         | Handle Phishing email reports and user-submitted threats. |
+| [Phishing Email Playbook](README.md)         | Handle Phishing email reports and user-submitted threats. |
 | [Malware Infection Playbook](./Malware-Infection-Playbook.md) | Handle malware infection alerts/incidents   |
 | [Unauthorized Access Playbook](./Unauthorized-Access.md) | Handle unauthroized access incidents |
 | [Data Exfiltration Playbook](./Data-Exfiltration.md) | Handle sensitive data leaving the network unauthorized |
