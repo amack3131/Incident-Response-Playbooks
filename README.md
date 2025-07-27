@@ -23,7 +23,7 @@ This repository provides step-by-step guidance on handling different types of in
 
 ## Template
 
-To keep playbooks consistent, use the [Playbook Template](./playbook-template.md) file when drafting a new one.
+To keep playbooks consistent, use the [Playbook Template](https://github.com/amack3131/Playbook-Template.md) file when drafting a new one.
 
 ---
 
