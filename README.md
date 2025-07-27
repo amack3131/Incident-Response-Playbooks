@@ -40,5 +40,3 @@ Incident response is about speed, clarity, and consistency. Playbooks are good b
 ## Author
 **Andon Mack** | Cybersecurity Professional
 [LinkedIn](https://www.linkedin.com/in/andon-mack-62632ab2/) | [GitHub](https://github.com/amack3131)
-# Incident-Response-Playbooks
-A collection of structured, real-world **Incident Response Playbooks** designed to help Security professionals detect, investigate, contain, and remediate common cybersecurity incidents.
