@@ -15,7 +15,7 @@ This repository provides step-by-step guidance on handling different types of in
 | Playbook | Description |
 |----------|-------------|
 | [Phishing Email Playbook](https://github.com/amack3131/Phishing-Email.md)         | Handle Phishing email reports and user-submitted threats. |
-| [Malware Infection Playbook](./Malware-Infection-Playbook.md) | Handle malware infection alerts/incidents   |
+| [Malware Infection Playbook](https://github.com/amack3131/Malware-Infection-Incident-Response-Playbook/blob/main/README.md) | Handle malware infection alerts/incidents   |
 | [Unauthorized Access Playbook](./Unauthorized-Access.md) | Handle unauthroized access incidents |
 | [Data Exfiltration Playbook](./Data-Exfiltration.md) | Handle sensitive data leaving the network unauthorized |
 | [DDoS Attack Playbook](./DDos-Attack.md) | Handle Distributed denial of service attacks |
